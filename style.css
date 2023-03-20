@@ -1,0 +1,67 @@
+.nav{
+    background-color: black !important; 
+}
+body{
+    background-color: black !important;
+}
+.nav1{
+    height: 30px;
+    width: 100%;
+    padding: 35px;
+    
+}
+.navbar{
+    font-size: 20px;
+    padding: 10px;
+    color: white !important;
+   
+}
+.img{
+    font-size: larger;
+    padding: 40px;
+    
+}
+img:hover{
+    background-color: goldenrod;
+}
+.nav-item:hover{
+
+  color: black;
+}
+.btn-secondary{
+    background-color: transparent !important;
+    border: 0px  !important;
+    margin-top: 4px;
+    font-size: 20px !important;
+    font-weight: bold;
+    color: gray !important;
+}
+
+.dropdown-menu{
+    background-color: gray !important;
+    width: 500px;
+    height: 400px;
+    
+}
+ .nav-link{
+    border: 1px solid black !important;
+    border-radius: 6px;
+    padding: 10px !important;
+
+} 
+
+
+.nav-link:hover{
+    background-color:  gold !important;
+    
+}
+.dropdown-item{
+    color: gold;
+}
+.dropdown{
+    border: 1px solid black;
+    border-radius: 6px;
+}
+.dropdown:hover{
+    background-color: gold;
+}
